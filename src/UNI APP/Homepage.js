@@ -6,7 +6,7 @@ import UniversitiesApi from "../connection/UniversitiesApi";
 import CountryPicker from "react-native-country-picker-modal";
 
 export default HomePage = () => {
-    // States Value
+    // States Values
     const [searchValue, setSearchValue] = useState("");
     const [universitiesList, setUniversitiesList] = useState([]);
     const [completeUniversitiesList, setCompleteUniversitiesList] = useState([]);

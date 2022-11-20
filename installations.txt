@@ -1,0 +1,5 @@
+//for axios
+npm i axios
+
+//for country picker
+npm i react-native-country-picker-modal
