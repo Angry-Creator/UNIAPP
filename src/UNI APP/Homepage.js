@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Text, View, StyleSheet, TextInput, FlatList } from "react-native";
-import UniversitiesApi from "../connection/UniversitiesApi";
+import UniversitiesApi from "../connection/RandomJokesApi";
 
 //import the picker
 import CountryPicker from "react-native-country-picker-modal";
